@@ -1070,7 +1070,7 @@
   "parameter_modifiers_can_only_be_used_in_a_ts_file_8012": "\"parameter modifiers\" 只能在 .ts 文件中使用。",
   "paths_option_is_specified_looking_for_a_pattern_to_match_module_name_0_6091": "指定了 \"paths“ 选项，正在查找模式以匹配模块名“{0}”。",
   "readonly_modifier_can_only_appear_on_a_property_declaration_or_index_signature_1024": "\"readonly\" 修饰符仅可出现在属性声明或索引签名中。",
-  "require_call_may_be_converted_to_an_import_80005": "可将“要求”调用转换为导入。",
+  "require_call_may_be_converted_to_an_import_80005": "可将\"require\"转换为\"import\"。",
   "rootDirs_option_is_set_using_it_to_resolve_relative_module_name_0_6107": "设置了 \"rootDirs\" 选项，可将其用于解析相对模块名称“{0}”。",
   "super_can_only_be_referenced_in_a_derived_class_2335": "只能在派生类中引用 \"super\"。",
   "super_can_only_be_referenced_in_members_of_derived_classes_or_object_literal_expressions_2660": "仅可在派生类或对象文字表达式的成员中引用 \"super\"。",
